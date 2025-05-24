@@ -95,8 +95,25 @@ export default function Header() {
                     </div>
                 </div>
             </div>
-            
             {/* Feature products section end */}
+
+            {/* Special offers section end */}
+            <div className="row limited-offers">
+                <h3>Limited Offers</h3>
+                <div className="col-lg-6">
+                    <h1>Special Edition</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Eum aspernatur accusamus labore similique sequi modi. 
+                        Pariatur cupiditate exercitationem aperiam minima.
+                    </p>
+                    <h2>Buy This Sandals At 20% Discount, Use Code OFF20</h2>
+                    <button type="button" className="btn btn-lg btn-outline-primary">Shop Now</button>
+                </div>
+                <div className="col-lg-6">
+                    <img src="/images/sandals.jpg" alt="" />
+                </div>
+            </div>
+            {/* Special offers section end */}
         </div>
     )
 }
