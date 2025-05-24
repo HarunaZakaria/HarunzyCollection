@@ -22,12 +22,30 @@ export default function Header() {
             <div className="row header-message">
                 <div className="col-lg-4">
                     <img src="/images/sandals.jpg" alt="picture" />
+                    <h2>20% Off On Tank Tops</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                        Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
+                        voluptatum pariatur voluptate nostrum ut.
+                    </p>
+                    <button type="button" className="btn btn-warning">Shop Now</button>
                 </div>
                 <div className="col-lg-4">
                     <img src="/images/sandals.jpg" alt="picture" />
+                    <h2>20% Off On Tank Tops</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                        Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
+                        voluptatum pariatur voluptate nostrum ut.
+                    </p>
+                    <button type="button" className="btn btn-warning">Shop Now</button>
                 </div>
                 <div className="col-lg-4">
                     <img src="/images/sandals.jpg" alt="picture" />
+                    <h2>20% Off On Tank Tops</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                        Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
+                        voluptatum pariatur voluptate nostrum ut.
+                    </p>
+                    <button type="button" className="btn btn-warning">Shop Now</button>
                 </div>
             </div>
             {/* Categories section end */}
