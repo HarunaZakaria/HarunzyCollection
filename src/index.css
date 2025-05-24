@@ -75,6 +75,9 @@ button:focus-visible {
   background-color: aquamarine;
 }
 .header-message{
- 
+ padding: 5%;
   text-align: center;
+}
+.limited-offers{
+  padding: 5%;
 }
