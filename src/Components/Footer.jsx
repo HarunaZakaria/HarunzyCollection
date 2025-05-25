@@ -35,6 +35,15 @@ export default function Footer(){
                     <button className="btn btn-lg btn-primary" type="button">SUBSCRIBE</button>
                 </div>
             </div>
+            <hr />
+            <div className="row">
+                <div className="col-lg-6">
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus vitae facilis, tenetur at odit ullam itaque labore ratione iusto cupiditate.</p>
+                </div>
+                <div className="col-lg-6">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, eaque. Expedita iusto eaque corrupti unde obcaecati, voluptas quod incidunt provident!</p>
+                </div>
+            </div>
         </div>
     )
 }
