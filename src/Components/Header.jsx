@@ -122,18 +122,32 @@ export default function Header() {
                         <img src="/images/sandals.jpg" className="d-block w-50" alt="..."/>
                         </div>
                     </div>
-                    <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                        <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span className="visually-hidden">Previous</span>
-                    </button>
-                    <button className="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                        <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span className="visually-hidden">Next</span>
-                    </button>
                     </div>
                 </div>
             </div>
             {/* Special offers section end */}
+
+            {/* Partners Section  end */}
+            <div className="row">
+                <h2>Key Partners</h2>
+                <div className="col-lg-3">
+                    <h3>Nationwide Delivery</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
+                </div>
+                 <div className="col-lg-3">
+                    <h3>Nationwide Delivery</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
+                </div>
+                 <div className="col-lg-3">
+                    <h3>Nationwide Delivery</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
+                </div>
+                 <div className="col-lg-3">
+                    <h3>Nationwide Delivery</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
+                </div>
+            </div>
+            {/* Partners Section end */}
         </div>
     )
 }
