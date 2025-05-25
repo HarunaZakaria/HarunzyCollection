@@ -1,5 +1,6 @@
-import { useState } from 'react'
-import Header from './Components/Header'
+import { useState } from 'react';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
 import './App.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   return (
     <>
       <Header />
+      <Footer />
       <h1>Hello from Harunzy Collection</h1>
       
     </>
