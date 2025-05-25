@@ -1,3 +1,5 @@
+import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
+
 export default function NavBar() {
     return (
         <div>
@@ -10,15 +12,13 @@ export default function NavBar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li className="nav-item">
-                    <a className="nav-link active newNav" aria-current="page" href="#">Home</a>
+                        <Link to="/contact" className="nav-link active newNav" aria-current="page">Home</Link>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link newNav" href="#">Products</a>
+                        <Link to="/contact" className="nav-link newNav">Product</Link>
                     </li>
                     <li className="nav-item dropdown newNav">
-                    <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Categories
-                    </a>
+                        <Link to="/contact" className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Categories</Link>
                     <ul className="dropdown-menu">
                         <li><a className="dropdown-item" href="#">Men</a></li>
                         <li><a className="dropdown-item" href="#">Women</a></li>
@@ -26,10 +26,10 @@ export default function NavBar() {
                     </ul>
                     </li>
                     <li className="nav-item newNav">
-                    <a className="nav-link" href="#">About</a>
+                        <Link to="/contact" className="nav-link newNav">About</Link>
                     </li>
                     <li className="nav-item newNav">
-                    <a className="nav-link" href="#">Contact</a>
+                        <Link to="/contact" className="nav-link newNav">Contact</Link>
                     </li>
                 </ul>
                 </div>
