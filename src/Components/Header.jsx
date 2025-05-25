@@ -127,27 +127,27 @@ export default function Header() {
             </div>
             {/* Special offers section end */}
 
-            {/* Partners Section  end */}
+            {/* Values Section  end */}
             <div className="row">
-                <h2>Key Partners</h2>
+                <h2>Key Values</h2>
                 <div className="col-lg-3">
                     <h3>Nationwide Delivery</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>
                  <div className="col-lg-3">
-                    <h3>Nationwide Delivery</h3>
+                    <h3>Best Quality</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>
                  <div className="col-lg-3">
-                    <h3>Nationwide Delivery</h3>
+                    <h3>Best Offers</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>
                  <div className="col-lg-3">
-                    <h3>Nationwide Delivery</h3>
+                    <h3>Easy payment</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>
             </div>
-            {/* Partners Section end */}
+            {/* Values Section end */}
         </div>
     )
 }
