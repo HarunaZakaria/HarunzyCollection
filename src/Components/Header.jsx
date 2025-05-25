@@ -14,6 +14,21 @@ export default function Header() {
                 <div className="col-lg-6">
                     <img src="/images/sandals.jpg" alt="" />
                 </div>
+                <div className="col">
+                    <div id="carouselExample" className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+                    <div className="carousel-inner">
+                        <div className="carousel-item active">
+                        <img src="/images/sandals.jpg" className="d-block w-70" alt="..."/>
+                        </div>
+                        <div className="carousel-item">
+                        <img src="/images/sandals0.jpg" className="d-block w-70" alt="..."/>
+                        </div>
+                        <div className="carousel-item">
+                        <img src="/images/sandals.jpg" className="d-block w-70" alt="..."/>
+                        </div>
+                    </div>
+                </div>
+                </div>
             </div>
             {/* Header top section  end*/}
 
