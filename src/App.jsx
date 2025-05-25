@@ -9,9 +9,7 @@ function App() {
   return (
     <>
       <Header />
-      <Footer />
-      <h1>Hello from Harunzy Collection</h1>
-      
+      <Footer />      
     </>
   )
 }
