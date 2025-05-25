@@ -29,7 +29,7 @@ export default function NavBar() {
                     <a className="nav-link" href="#">About</a>
                     </li>
                     <li className="nav-item newNav">
-                    <a className="nav-link" href="#">Blog</a>
+                    <a className="nav-link" href="#">Contact</a>
                     </li>
                 </ul>
                 </div>
