@@ -18,3 +18,7 @@
 .header-btn{
   margin: 10px;
 }
+.header-image img{
+  width: 300px;
+  border-radius: 10px;
+}
