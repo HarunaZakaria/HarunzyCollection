@@ -5,7 +5,7 @@ export default function Header() {
             <NavBar />
             {/* Header top section  start*/}
             <div className="row header-message">
-                <div className="col-lg-6">
+                <div className="col-lg-6 offers">
                     <h1>Raining Offers For Hot Summer</h1>
                     <p>25% Off On All Products</p>
                     <button type="button" className="btn btn-lg btn-secondary">Shop Now</button>
@@ -34,7 +34,7 @@ export default function Header() {
 
             {/* Categories section start */}
 
-            <div className="row header-message">
+            <div className="row ">
                 <h2>Categories</h2>
                 <div className="col-lg-4">
                     <img src="/images/sandals.jpg" alt="picture" />
