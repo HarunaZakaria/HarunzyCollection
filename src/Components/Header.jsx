@@ -11,8 +11,8 @@ export default function Header() {
                     <button type="button" className="btn btn-lg btn-warning header-btn">Shop Now</button>
                     <button type="button" className="btn btn-lg btn-outline-primary header-btn">Find More</button>
                 </div>
-                <div className="col-lg-6">
-                    <img src="/images/sandals.jpg" alt="" />
+                <div className="col-lg-6 header-image">
+                    <img src="/images/flyer.png" alt="header image" />
                 </div>
                 <div className="col">
                     <div id="carouselExample" className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
