@@ -1,4 +1,4 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
@@ -16,7 +16,7 @@ function App() {
           <Routes>
             {/* <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} /> */}
-            {/* <Route path="/contact" element={<Contact />} /> */}
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </Router>     
     </>
