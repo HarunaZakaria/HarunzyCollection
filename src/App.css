@@ -26,3 +26,32 @@
   border-radius: 10px;
 }
 /* Header Section End */
+/* Products Seection Start */
+.produccts {
+  text-align: center;
+  padding-bottom: 3%;
+}
+.Categories{
+  background-color: red;
+  padding-bottom: 25px;
+  margin: 0 auto;
+}
+.Categories h2{
+  font-size: 3rem;
+  color: white;
+  padding: 10px;
+}
+.cate-back {
+  background-image: url("images/sandals2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 15%;
+  padding-bottom: 10%;
+  border-radius: 15px;
+  margin: 5px;
+  width: 420px;
+  text-align: center;
+}
+/* Products Seection End */
+
