@@ -1,12 +1,11 @@
 export default function Products(){
     return(
-        <div>
+        <div className="produccts">
             {/* Categories section start */}
-
-            <div className="row ">
+            <div className="row  Categories">
                 <h2>Categories</h2>
-                <div className="col-lg-4">
-                    <img src="/images/sandals.jpg" alt="picture" />
+                <div className="col-lg-4 cate-back">
+                    {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                         Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
