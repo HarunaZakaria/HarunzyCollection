@@ -13,8 +13,8 @@ export default function Products(){
                     </p>
                     <button type="button" className="btn btn-warning">Shop Now</button>
                 </div>
-                <div className="col-lg-4">
-                    <img src="/images/sandals.jpg" alt="picture" />
+                <div className="col-lg-4 cate-back">
+                    {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                         Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
@@ -22,8 +22,8 @@ export default function Products(){
                     </p>
                     <button type="button" className="btn btn-warning">Shop Now</button>
                 </div>
-                <div className="col-lg-4">
-                    <img src="/images/sandals.jpg" alt="picture" />
+                <div className="col-lg-4 cate-back">
+                    {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                         Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
