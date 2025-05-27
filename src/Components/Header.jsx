@@ -8,8 +8,8 @@ export default function Header() {
                 <div className="col-lg-6 offers">
                     <h1>Raining Offers For Hot Summer</h1>
                     <p>25% Off On All Products</p>
-                    <button type="button" className="btn btn-lg btn-secondary">Shop Now</button>
-                    <button type="button" className="btn btn-lg btn-outline-secondary">Find More</button>
+                    <button type="button" className="btn btn-lg btn-warning header-btn">Shop Now</button>
+                    <button type="button" className="btn btn-lg btn-outline-primary header-btn">Find More</button>
                 </div>
                 <div className="col-lg-6">
                     <img src="/images/sandals.jpg" alt="" />
