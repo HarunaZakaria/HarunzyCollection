@@ -4,32 +4,29 @@ export default function Products(){
             {/* Categories section start */}
             <div className="row  Categories">
                 <h2>Categories</h2>
-                <div className="col-lg-4 cate-back">
+                <div className="col-lg-4 cate-back1">
                     {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                         Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
                         voluptatum pariatur voluptate nostrum ut.
                     </p>
-                    <button type="button" className="btn btn-warning">Shop Now</button>
                 </div>
-                <div className="col-lg-4 cate-back">
+                <div className="col-lg-4 cate-back2">
                     {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                         Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
                         voluptatum pariatur voluptate nostrum ut.
                     </p>
-                    <button type="button" className="btn btn-warning">Shop Now</button>
                 </div>
-                <div className="col-lg-4 cate-back">
+                <div className="col-lg-4 cate-back3">
                     {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                         Explicabo eveniet tenetur adipisci debitis voluptas accusamus 
                         voluptatum pariatur voluptate nostrum ut.
                     </p>
-                    <button type="button" className="btn btn-warning">Check Out</button>
                 </div>
             </div>
             {/* Categories section end */}
