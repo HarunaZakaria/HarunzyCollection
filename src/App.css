@@ -32,9 +32,9 @@
   padding-bottom: 3%;
 }
 .Categories{
-  background-color: red;
   padding-bottom: 25px;
   margin: 0 auto;
+  text-align: center;
 }
 .Categories h2{
   font-size: 3rem;
@@ -49,7 +49,7 @@
   padding-top: 15%;
   padding-bottom: 10%;
   border-radius: 15px;
-  margin: 5px;
+  margin: 15px;
   width: 420px;
   text-align: center;
 }
