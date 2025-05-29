@@ -62,3 +62,8 @@
 }
 /* Products Seection End */
 
+.cross-price{
+  text-decoration: line-through;
+  margin-right: 10px;
+  color: chocolate;
+}
