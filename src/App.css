@@ -38,11 +38,18 @@
 }
 .Categories h2{
   font-size: 3rem;
-  color: white;
   padding: 10px;
 }
-.cate-back {
+.cate-back1{
   background-image: url("images/sandals2.jpg");
+}
+.cate-back2{
+  background-image: url("images/sandals7.jpg");
+}
+.cate-back3{
+  background-image: url("images/sandals6.jpg");
+}
+.cate-back1, .cate-back2, .cate-back3 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
