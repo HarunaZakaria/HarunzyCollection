@@ -46,6 +46,7 @@ export default function Products(){
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
+                                 <i className="fa-solid fa-star-half-stroke"></i>
                                 </span>
                             </p>
                             <a href="#" className="btn btn-primary">Add To Cart</a>
@@ -64,6 +65,7 @@ export default function Products(){
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
+                                 <i className="fa-solid fa-star-half-stroke"></i>
                                 </span>
                             </p>
                             <a href="#" className="btn btn-primary">Go somewhere</a>
@@ -82,6 +84,7 @@ export default function Products(){
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
+                                 <i className="fa-solid fa-star-half-stroke"></i>
                                 </span>
                             </p>
                             <a href="#" className="btn btn-primary">Go somewhere</a>
@@ -89,7 +92,7 @@ export default function Products(){
                     </div>
                 </div>
                  <div className="col-lg-3">
-                    <div className="card">
+                    <div className="card small">
                         <img src="/images/sandals.jpg" alt="picture" />
                         <div className="card-body">
                             <h5 className="card-title">Card title</h5>
@@ -100,6 +103,7 @@ export default function Products(){
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
+                                <i className="fa-solid fa-star-half-stroke"></i>
                                 </span>
                             </p>
                             <a href="#" className="btn btn-primary">Go somewhere</a>
