@@ -41,7 +41,7 @@ export default function Products(){
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
                             <p><span className="cross-price">Ghc150 </span> Ghc130</p>
-                            <p>Rate <span>
+                            <p className="stars">Rate <span>
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
@@ -58,6 +58,14 @@ export default function Products(){
                         <div className="card-body">
                             <h5 className="card-title">Card title</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                            <p><span className="cross-price">Ghc150 </span> Ghc130</p>
+                            <p className="stars">Rate <span>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                </span>
+                            </p>
                             <a href="#" className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -68,6 +76,14 @@ export default function Products(){
                         <div className="card-body">
                             <h5 className="card-title">Card title</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                            <p><span className="cross-price">Ghc150 </span> Ghc130</p>
+                            <p className="stars">Rate <span>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                </span>
+                            </p>
                             <a href="#" className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -78,6 +94,14 @@ export default function Products(){
                         <div className="card-body">
                             <h5 className="card-title">Card title</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                            <p><span className="cross-price">Ghc150 </span> Ghc130</p>
+                            <p className="stars">Rate <span>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                <i className="fa fa-star checked"></i>
+                                </span>
+                            </p>
                             <a href="#" className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
