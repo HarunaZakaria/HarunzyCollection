@@ -32,7 +32,7 @@ export default function Products(){
             {/* Categories section end */}
 
             {/* Feature products section end */}
-            <div className="row">
+            <div className="row feature-products">
                 <h2>Feature Products</h2>
                 <div className="col-lg-3">
                     <div className="card">
