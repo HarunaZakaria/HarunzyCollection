@@ -68,7 +68,7 @@ export default function Products(){
                                  <i className="fa-solid fa-star-half-stroke stars"></i>
                                 </span>
                             </p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a href="#" className="btn btn-primary">Add To Cart</a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@ export default function Products(){
                                  <i className="fa-solid fa-star-half-stroke"></i>
                                 </span>
                             </p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a href="#" className="btn btn-primary">Add To Cart</a>
                         </div>
                     </div>
                 </div>
@@ -106,7 +106,7 @@ export default function Products(){
                                 <i className="fa-solid fa-star-half-stroke"></i>
                                 </span>
                             </p>
-                            <a href="#" className="btn btn-primary">Go somewhere</a>
+                            <a href="#" className="btn btn-primary">Add To Cart</a>
                         </div>
                     </div>
                 </div>
