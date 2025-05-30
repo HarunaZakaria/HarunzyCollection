@@ -65,8 +65,11 @@
 .cross-price{
   text-decoration: line-through;
   margin-right: 10px;
-  color: chocolate;
+  color: orange;
 }
 .feature-products h2{
   padding-bottom: 15px;
+}
+.stars{
+  color: orange;
 }
