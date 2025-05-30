@@ -36,7 +36,7 @@ export default function Products(){
                 <h2>Feature Products</h2>
                 <div className="col-lg-3">
                     <div className="card">
-                        <img src="/images/sandals.jpg" alt="picture" />
+                        <img src="/images/sandals0.jpg" alt="picture" />
                         <div className="card-body">
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
@@ -55,7 +55,7 @@ export default function Products(){
                 </div>
                  <div className="col-lg-3">
                     <div className="card">
-                        <img src="/images/sandals.jpg" alt="picture" />
+                        <img src="/images/sandals3.jpg" alt="picture" />
                         <div className="card-body">
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
@@ -74,7 +74,7 @@ export default function Products(){
                 </div>
                  <div className="col-lg-3">
                     <div className="card">
-                        <img src="/images/sandals.jpg" alt="picture" />
+                        <img src="/images/sandals2.jpg" alt="picture" />
                         <div className="card-body">
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
@@ -93,7 +93,7 @@ export default function Products(){
                 </div>
                  <div className="col-lg-3">
                     <div className="card small">
-                        <img src="/images/sandals.jpg" alt="picture" />
+                        <img src="/images/sandals1.jpg" alt="picture" />
                         <div className="card-body">
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
