@@ -57,7 +57,7 @@ export default function Products(){
                     <div className="card">
                         <img src="/images/sandals.jpg" alt="picture" />
                         <div className="card-body">
-                            <h5 className="card-title">Card title</h5>
+                            <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
                             <p><span className="cross-price">Ghc150 </span> Ghc130</p>
                             <p className="stars">Rate <span>
@@ -76,7 +76,7 @@ export default function Products(){
                     <div className="card">
                         <img src="/images/sandals.jpg" alt="picture" />
                         <div className="card-body">
-                            <h5 className="card-title">Card title</h5>
+                            <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
                             <p><span className="cross-price">Ghc150 </span> Ghc130</p>
                             <p className="stars">Rate <span>
@@ -95,7 +95,7 @@ export default function Products(){
                     <div className="card small">
                         <img src="/images/sandals.jpg" alt="picture" />
                         <div className="card-body">
-                            <h5 className="card-title">Card title</h5>
+                            <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
                             <p><span className="cross-price">Ghc150 </span> Ghc130</p>
                             <p className="stars">Rate <span>
