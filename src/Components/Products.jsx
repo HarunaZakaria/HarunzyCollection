@@ -114,7 +114,7 @@ export default function Products(){
             {/* Feature products section end */}
 
             {/* Special offers section end */}
-            <div className="row limited-offers">
+            <div className="row special-offers">
                 <h3>Limited Offers</h3>
                 <div className="col-lg-6">
                     <h1>Special Edition</h1>
