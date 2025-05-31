@@ -82,9 +82,14 @@
 
 .special-offers{
   padding: 5%;
+  background-color: aquamarine;
+  margin-top: 25px;
 }
 .special-offers h3{
   padding-bottom: 15px;
   font-weight: bold;
+}
+.special-message{
+  padding: 20px;
 }
 /* Special Seection End */
