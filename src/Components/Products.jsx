@@ -4,7 +4,7 @@ export default function Products(){
             {/* Categories section start */}
             <div className="row  Categories">
                 <h2>Categories</h2>
-                <div className="col-lg-4 cate-back1">
+                <div className="col-lg-4 cate-back1 shadow-lg">
                     {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
@@ -12,7 +12,7 @@ export default function Products(){
                         voluptatum pariatur voluptate nostrum ut.
                     </p>
                 </div>
-                <div className="col-lg-4 cate-back2">
+                <div className="col-lg-4 cate-back2 shadow-lg">
                     {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
@@ -20,7 +20,7 @@ export default function Products(){
                         voluptatum pariatur voluptate nostrum ut.
                     </p>
                 </div>
-                <div className="col-lg-4 cate-back3">
+                <div className="col-lg-4 cate-back3 shadow-lg">
                     {/* <img src="/images/sandals.jpg" alt="picture" /> */}
                     <h3>20% Off On Tank Tops</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
