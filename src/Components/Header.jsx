@@ -18,16 +18,16 @@ export default function Header() {
                     <div id="carouselExample" className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                        <img src="/images/sandals0.jpg" className="d-block w-70" alt="Sandals"/>
+                        <img src="/images/sandals8.jpg" className="d-block w-70" alt="Sandals"/>
                         </div>
                         <div className="carousel-item">
-                        <img src="/images/sandals1.jpg" className="d-block w-70" alt="Sandals"/>
+                        <img src="/images/sandals9.jpg" className="d-block w-70" alt="Sandals"/>
                         </div>
                         <div className="carousel-item">
-                        <img src="/images/sandals2.jpg" className="d-block w-70" alt="Sandals"/>
+                        <img src="/images/sandals10.jpg" className="d-block w-70" alt="Sandals"/>
                         </div>
                         <div className="carousel-item">
-                        <img src="/images/sandals3.jpg" className="d-block w-70" alt="Sandals"/>
+                        <img src="/images/sandals11.jpg" className="d-block w-70" alt="Sandals"/>
                         </div>
                         <div className="carousel-item">
                         <img src="/images/sandals5.jpg" className="d-block w-70" alt="Sandals"/>
