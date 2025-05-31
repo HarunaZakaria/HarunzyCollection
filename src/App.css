@@ -62,6 +62,8 @@
 }
 /* Products Seection End */
 
+/*Feature Products Seection Start */
+
 .cross-price{
   text-decoration: line-through;
   margin-right: 10px;
@@ -73,3 +75,16 @@
 .stars{
   color: orange;
 }
+/* Feature Seection End */
+
+/* Special Seection Start */
+
+
+.special-offers{
+  padding: 5%;
+}
+.special-offers h3{
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+/* Special Seection End */
