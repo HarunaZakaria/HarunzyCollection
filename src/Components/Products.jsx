@@ -116,7 +116,7 @@ export default function Products(){
             {/* Special offers section end */}
             <div className="row special-offers">
                 <h3>Limited Offers</h3>
-                <div className="col-lg-6">
+                <div className="col-lg-6 special-message">
                     <h1>Special Edition</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                         Eum aspernatur accusamus labore similique sequi modi. 
