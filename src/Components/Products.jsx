@@ -128,14 +128,14 @@ export default function Products(){
                 <div className="col-lg-6">
                     <div id="carouselExample" className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
                     <div className="carousel-inner">
-                        <div className="carousel-item active">
-                        <img src="/images/sandals.jpg" className="d-block w-50" alt="..."/>
+                        <div className="carousel-item active special-sandals">
+                        <img src="/images/sandals.jpg" className="d-block w-50" alt="sandals"/>
                         </div>
                         <div className="carousel-item">
-                        <img src="/images/sandals.jpg" className="d-block w-50" alt="..."/>
+                        <img src="/images/sandals.jpg" className="d-block w-50 special-sandals" alt="sandals"/>
                         </div>
                         <div className="carousel-item">
-                        <img src="/images/sandals.jpg" className="d-block w-50" alt="..."/>
+                        <img src="/images/sandals.jpg" className="d-block w-50 special-sandals" alt="sandals"/>
                         </div>
                     </div>
                     </div>
