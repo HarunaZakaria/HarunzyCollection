@@ -59,7 +59,7 @@ export default function Products(){
                         <div className="card-body">
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                            <p><span className="cross-price">Ghc150 </span> Ghc130</p>
+                            <p><span className="cross-price">Ghc200 </span> Ghc180</p>
                             <p>Rate <span>
                                 <i className="fa fa-star checked stars"></i>
                                 <i className="fa fa-star checked stars"></i>
@@ -97,7 +97,7 @@ export default function Products(){
                         <div className="card-body">
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-                            <p><span className="cross-price">Ghc150 </span> Ghc130</p>
+                            <p><span className="cross-price">Ghc200 </span> Ghc180</p>
                             <p className="stars">Rate <span>
                                 <i className="fa fa-star checked"></i>
                                 <i className="fa fa-star checked"></i>
