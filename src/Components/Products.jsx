@@ -55,7 +55,7 @@ export default function Products(){
                 </div>
                  <div className="col-lg-3">
                     <div className="card">
-                        <img src="/images/sandals3.jpg" alt="picture" />
+                        <img src="/images/HarunzyCollection0.jpg" alt="picture" />
                         <div className="card-body">
                             <h5 className="card-title">BirkenStock Sandals</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
