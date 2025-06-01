@@ -96,3 +96,13 @@
   border-radius: 15px;
 }
 /* Special Seection End */
+
+/* Values Section  Start */
+.values{
+  padding: 3%;
+}
+.values h2{
+  font-weight: bold;
+  padding: 20px;
+}
+/* Values Section  End */

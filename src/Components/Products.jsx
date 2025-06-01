@@ -143,8 +143,8 @@ export default function Products(){
             </div>
             {/* Special offers section end */}
 
-            {/* Values Section  end */}
-            <div className="row">
+            {/* Values Section  Start*/}
+            <div className="row values">
                 <h2>Key Values</h2>
                 <div className="col-lg-3">
                     <h3>Nationwide Delivery</h3>
