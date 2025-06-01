@@ -146,19 +146,19 @@ export default function Products(){
             {/* Values Section  Start*/}
             <div className="row values">
                 <h2>Key Values</h2>
-                <div className="col-lg-3">
+                <div className="col-lg-3 values-message">
                     <h3>Nationwide Delivery</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>
-                 <div className="col-lg-3">
+                 <div className="col-lg-3 values-message">
                     <h3>Best Quality</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>
-                 <div className="col-lg-3">
+                 <div className="col-lg-3 values-message">
                     <h3>Best Offers</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>
-                 <div className="col-lg-3">
+                 <div className="col-lg-3 values-message">
                     <h3>Easy payment</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, aut?</p>
                 </div>

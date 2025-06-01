@@ -105,4 +105,11 @@
   font-weight: bold;
   padding: 20px;
 }
+.values-message{
+  background-color: aquamarine;
+  width: 250px;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+}
 /* Values Section  End */
