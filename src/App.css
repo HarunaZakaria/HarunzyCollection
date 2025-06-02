@@ -115,9 +115,17 @@
 /* Values Section  End */
 
 .footer{
-  background-color: aqua;
   text-align: center;
 }
 .footer h2{
   padding: 10px;
+}
+.footer-content{
+  background-color: aqua;
+  margin: 10px;
+  padding: 15px;
+}
+.copy p{
+  font-size: 20px;
+  width: 250px;
 }
