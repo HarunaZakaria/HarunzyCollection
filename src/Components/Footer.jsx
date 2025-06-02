@@ -1,8 +1,9 @@
 export default function Footer(){
     return (
         <div>
-            <h2>Sales To 70% Off All Sandals On All Styles</h2>
-            <div className="row">
+            
+            <div className="row footer">
+                <h2>Sales To 70% Off All Sandals On All Styles</h2>
                 <div className="container">
                     <footer className="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
                         <div className="col mb-3"> 
