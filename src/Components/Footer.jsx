@@ -6,8 +6,9 @@ export default function Footer(){
                 <h2>Sales To 70% Off All Sandals On All Styles</h2>
                 <div className="container">
                     <footer className="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
-                        <div className="col mb-3  footer-content copy"> 
-                            <p className="col-md-4 mb-0 text-body-secondary">&copy; 2025  Harunzy Collection</p> 
+                        <div className="col mb-3  footer-content logo"> 
+                            <h5>Harunzy Collection</h5>
+                            <p>The best look anytime, anywhere.</p>
                         </div> 
                         <div className="col mb-3 footer-content"> 
                             <h5>Section</h5> 
@@ -41,6 +42,7 @@ export default function Footer(){
                             </form> 
                         </div>  
                     </footer>
+                    <p className="col-md-4 copy ">&copy; 2025  Harunzy Collection</p>
                 </div>  
             </div>
         </div>
