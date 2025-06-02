@@ -113,3 +113,11 @@
   border-radius: 10px;
 }
 /* Values Section  End */
+
+.footer{
+  background-color: aqua;
+  text-align: center;
+}
+.footer h2{
+  padding: 10px;
+}
