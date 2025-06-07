@@ -35,6 +35,7 @@
   padding-bottom: 25px;
   margin: 0 auto;
   text-align: center;
+  background-color: #ef9c23;
 }
 .Categories h2 {
   font-size: 3rem;
@@ -83,7 +84,6 @@
 
 .special-offers {
   padding: 5%;
-  background-color: #ef9c23;
   margin-top: 25px;
 }
 .special-offers h3 {
@@ -107,7 +107,6 @@
   padding: 20px;
 }
 .values-message {
-  background-color: aquamarine;
   width: 250px;
   margin: 10px auto;
   padding: 10px;
@@ -117,6 +116,7 @@
 
 .footer {
   text-align: center;
+  background-color: #ef9c23;
 }
 .footer h2 {
   padding: 10px;
