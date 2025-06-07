@@ -7,7 +7,7 @@ export default function Products() {
 
         <div className="col-lg-4">
           <div className="card  w-auto p-3">
-            <img src="/images/HC0.png" alt="picture" />
+            <img src="/images/HC0.jpg" alt="picture" />
             <div className="card-body">
               <h3 className="card-title">Men Sandals</h3>
               <p className="card-text">
@@ -18,7 +18,7 @@ export default function Products() {
         </div>
         <div className="col-lg-4">
           <div className="card  w-auto p-3">
-            <img src="/images/HC1.png" alt="picture" />
+            <img src="/images/HC15.jpg" alt="picture" />
             <div className="card-body">
               <h3 className="card-title">Men Crosses</h3>
               <p className="card-text">
@@ -30,7 +30,7 @@ export default function Products() {
         </div>
         <div className="col-lg-4">
           <div className="card  w-auto p-3">
-            <img src="/images/HC2.png" alt="picture" />
+            <img src="/images/HC12.jpg" alt="picture" />
             <div className="card-body">
               <h3 className="card-title">Women Sandals</h3>
               <p className="card-text">
@@ -48,7 +48,63 @@ export default function Products() {
         <h2>Feature Sandals</h2>
         <div className="col-lg-3">
           <div className="card">
-            <img src="/images/sandals0.jpg" alt="picture" />
+            <img src="/images/HC2.jpg" alt="picture" />
+            <div className="card-body">
+              <h5 className="card-title">BirkenStock Sandals</h5>
+              <p className="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <p>
+                <span className="cross-price">Ghc190 </span> Ghc170
+              </p>
+              <p className="stars">
+                Rate{' '}
+                <span>
+                  <i className="fa fa-star checked"></i>
+                  <i className="fa fa-star checked"></i>
+                  <i className="fa fa-star checked"></i>
+                  <i className="fa fa-star checked"></i>
+                  <i className="fa-solid fa-star-half-stroke"></i>
+                </span>
+              </p>
+              <a href="#" className="btn btn-primary">
+                Add To Cart
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-3">
+          <div className="card">
+            <img src="/images/HC11.jpg" alt="picture" />
+            <div className="card-body">
+              <h5 className="card-title">BirkenStock Sandals</h5>
+              <p className="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <p>
+                <span className="cross-price">Ghc170 </span> Ghc150
+              </p>
+              <p>
+                Rate{' '}
+                <span>
+                  <i className="fa fa-star checked stars"></i>
+                  <i className="fa fa-star checked stars"></i>
+                  <i className="fa fa-star checked stars"></i>
+                  <i className="fa fa-star checked stars"></i>
+                  <i className="fa-solid fa-star-half-stroke stars"></i>
+                </span>
+              </p>
+              <a href="#" className="btn btn-primary">
+                Add To Cart
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-3">
+          <div className="card">
+            <img src="/images/HC0.jpg" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">BirkenStock Sandals</h5>
               <p className="card-text">
@@ -75,69 +131,13 @@ export default function Products() {
           </div>
         </div>
         <div className="col-lg-3">
-          <div className="card">
-            <img src="/images/HarunzyCollection0.jpg" alt="picture" />
-            <div className="card-body">
-              <h5 className="card-title">BirkenStock Sandals</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card’s content.
-              </p>
-              <p>
-                <span className="cross-price">Ghc200 </span> Ghc180
-              </p>
-              <p>
-                Rate{' '}
-                <span>
-                  <i className="fa fa-star checked stars"></i>
-                  <i className="fa fa-star checked stars"></i>
-                  <i className="fa fa-star checked stars"></i>
-                  <i className="fa fa-star checked stars"></i>
-                  <i className="fa-solid fa-star-half-stroke stars"></i>
-                </span>
-              </p>
-              <a href="#" className="btn btn-primary">
-                Add To Cart
-              </a>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-3">
-          <div className="card">
-            <img src="/images/sandals2.jpg" alt="picture" />
-            <div className="card-body">
-              <h5 className="card-title">BirkenStock Sandals</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card’s content.
-              </p>
-              <p>
-                <span className="cross-price">Ghc150 </span> Ghc130
-              </p>
-              <p className="stars">
-                Rate{' '}
-                <span>
-                  <i className="fa fa-star checked"></i>
-                  <i className="fa fa-star checked"></i>
-                  <i className="fa fa-star checked"></i>
-                  <i className="fa fa-star checked"></i>
-                  <i className="fa-solid fa-star-half-stroke"></i>
-                </span>
-              </p>
-              <a href="#" className="btn btn-primary">
-                Add To Cart
-              </a>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-3">
           <div className="card small">
-            <img src="/images/sandals1.jpg" alt="picture" />
+            <img src="/images/HC1.jpg" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">BirkenStock Sandals</h5>
               <p className="card-text">
                 Some quick example text to build on the card title and make up
-                the bulk of the card’s content.
+                the bulk of the card's content.
               </p>
               <p>
                 <span className="cross-price">Ghc200 </span> Ghc180
