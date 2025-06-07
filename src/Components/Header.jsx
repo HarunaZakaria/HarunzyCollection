@@ -18,10 +18,7 @@ export default function Header() {
             Find More
           </button>
         </div>
-        <div className="col-lg-6 header-image">
-          <img src="/images/flyer.png" alt="header image" />
-        </div>
-        <div className="col header-carousal">
+        <div className="col-lg-6 header-carousal">
           <div
             id="carouselExample"
             className="carousel slide"
