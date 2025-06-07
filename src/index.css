@@ -71,12 +71,14 @@ button:focus-visible {
   font-weight: bold;
   color: #21409a;
 }
-.navbar-brand:hover {
+.navbar-brand:hover,
+.newNav:hover {
   color: white;
 }
 .newNav {
   font-size: 1.5rem;
   background-color: #ef9c23;
+  color: #21409a;
 }
 .header-message {
   padding: 5%;
