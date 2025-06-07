@@ -6,10 +6,10 @@ export default function Products() {
         <h2>Categories</h2>
 
         <div className="col-lg-4">
-          <div className="card cate-img-body w-auto p-3">
+          <div className="card  w-auto p-3">
             <img src="/images/HC0.png" alt="picture" />
             <div className="card-body">
-              <h5 className="card-title">Men Sandals</h5>
+              <h3 className="card-title">Men Sandals</h3>
               <p className="card-text">
                 We sell all kinds of Men Birkenstock and an affordable prices.
               </p>
@@ -17,10 +17,10 @@ export default function Products() {
           </div>
         </div>
         <div className="col-lg-4">
-          <div className="card cate-img-body w-auto p-3">
+          <div className="card  w-auto p-3">
             <img src="/images/HC1.png" alt="picture" />
             <div className="card-body">
-              <h5 className="card-title">Men Crosses</h5>
+              <h3 className="card-title">Men Crosses</h3>
               <p className="card-text">
                 We sell kinds Birkenstock crosses for both men and women at an
                 affordable prices.
@@ -29,10 +29,10 @@ export default function Products() {
           </div>
         </div>
         <div className="col-lg-4">
-          <div className="card cate-img-body w-auto p-3">
+          <div className="card  w-auto p-3">
             <img src="/images/HC2.png" alt="picture" />
             <div className="card-body">
-              <h5 className="card-title">Women Sandals</h5>
+              <h3 className="card-title">Women Sandals</h3>
               <p className="card-text">
                 We sell all kinds of Birkenstock sandals for ladies at an
                 affordable prices.
@@ -44,8 +44,8 @@ export default function Products() {
       {/* Categories section end */}
 
       {/* Feature products section end */}
-      <div className="row feature-products">
-        <h2>Feature Products</h2>
+      <div className="row feature-sandals">
+        <h2>Feature Sandals</h2>
         <div className="col-lg-3">
           <div className="card">
             <img src="/images/sandals0.jpg" alt="picture" />
@@ -53,7 +53,7 @@ export default function Products() {
               <h5 className="card-title">BirkenStock Sandals</h5>
               <p className="card-text">
                 Some quick example text to build on the card title and make up
-                the bulk of the card’s content.
+                the bulk of the card's content.
               </p>
               <p>
                 <span className="cross-price">Ghc150 </span> Ghc130
