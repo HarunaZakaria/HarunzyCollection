@@ -17,15 +17,11 @@
 .header-btn {
   margin: 10px;
 }
-.header-image img {
-  width: 300px;
-  border-radius: 15px;
-  box-shadow: 3px 5px 5px #21409a;
-}
 .header-carousal img {
-  width: 400px;
+  width: 300px;
   margin: 40px auto 0;
   border-radius: 10px;
+  box-shadow: 3px 5px 5px #21409a;
 }
 /* Header Section End */
 /* Products Seection Start */
@@ -34,15 +30,10 @@
   padding-bottom: 3%;
 }
 .Categories {
-  padding-bottom: 25px;
+  padding-bottom: 3%;
   margin: 0 auto;
   text-align: center;
   background-color: #ef9c23;
-}
-.cate-img-body {
-  width: 18rem;
-  background-color: #21409a;
-  color: white;
 }
 
 .Categories h2 {
@@ -67,13 +58,16 @@
 .cross-price {
   text-decoration: line-through;
   margin-right: 10px;
-  color: orange;
+  color: #ef9c23;
 }
-.feature-products h2 {
+.feature-sandals {
+  padding-top: 5%;
+}
+.feature-sandals h2 {
   padding-bottom: 15px;
 }
 .stars {
-  color: orange;
+  color: #ef9c23;
 }
 /* Feature Seection End */
 
