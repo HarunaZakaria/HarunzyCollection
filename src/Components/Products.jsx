@@ -4,26 +4,41 @@ export default function Products() {
       {/* Categories section start */}
       <div className="row  Categories">
         <h2>Categories</h2>
-        <div className="col-lg-4 cate-back1 shadow-lg">
-          {/* <img src="/images/sandals.jpg" alt="picture" /> */}
-          <h3>Men Sandals</h3>
-          <p>We sell all kinds of Men Birkenstock and an affordable prices</p>
+
+        <div className="col-lg-4">
+          <div className="card cate-img-body">
+            <img src="/images/HC0.png" alt="picture" className="cate-imag" />
+            <div className="card-body">
+              <h5 className="card-title">Men Sandals</h5>
+              <p className="card-text">
+                We sell all kinds of Men Birkenstock and an affordable prices.
+              </p>
+            </div>
+          </div>
         </div>
-        <div className="col-lg-4 cate-back2 shadow-lg">
-          {/* <img src="/images/sandals.jpg" alt="picture" /> */}
-          <h3>Men Crosses</h3>
-          <p>
-            We sell kinds Birkenstock crosses for both men and women at an
-            affordable prices
-          </p>
+        <div className="col-lg-4">
+          <div className="card cate-img-body">
+            <img src="/images/HC0.png" alt="picture" className="cate-imag" />
+            <div className="card-body">
+              <h5 className="card-title">Men Crosses</h5>
+              <p className="card-text">
+                We sell kinds Birkenstock crosses for both men and women at an
+                affordable prices.
+              </p>
+            </div>
+          </div>
         </div>
-        <div className="col-lg-4 cate-back3 shadow-lg">
-          {/* <img src="/images/sandals.jpg" alt="picture" /> */}
-          <h3>Women Sandals</h3>
-          <p>
-            We sell all kinds of Birkenstock sandals for ladies at an affordable
-            prices
-          </p>
+        <div className="col-lg-4">
+          <div className="card cate-img-body">
+            <img src="/images/HC0.png" alt="picture" className="cate-imag" />
+            <div className="card-body">
+              <h5 className="card-title">Women Sandals</h5>
+              <p className="card-text">
+                We sell all kinds of Birkenstock sandals for ladies at an
+                affordable prices.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
       {/* Categories section end */}
