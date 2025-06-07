@@ -6,8 +6,8 @@ export default function Products() {
         <h2>Categories</h2>
 
         <div className="col-lg-4">
-          <div className="card cate-img-body">
-            <img src="/images/HC0.png" alt="picture" className="cate-imag" />
+          <div className="card cate-img-body w-auto p-3">
+            <img src="/images/HC0.png" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">Men Sandals</h5>
               <p className="card-text">
@@ -17,8 +17,8 @@ export default function Products() {
           </div>
         </div>
         <div className="col-lg-4">
-          <div className="card cate-img-body">
-            <img src="/images/HC0.png" alt="picture" className="cate-imag" />
+          <div className="card cate-img-body w-auto p-3">
+            <img src="/images/HC1.png" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">Men Crosses</h5>
               <p className="card-text">
@@ -29,8 +29,8 @@ export default function Products() {
           </div>
         </div>
         <div className="col-lg-4">
-          <div className="card cate-img-body">
-            <img src="/images/HC0.png" alt="picture" className="cate-imag" />
+          <div className="card cate-img-body w-auto p-3">
+            <img src="/images/HC2.png" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">Women Sandals</h5>
               <p className="card-text">
