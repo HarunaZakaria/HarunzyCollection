@@ -28,35 +28,35 @@ export default function Header() {
             <div className="carousel-inner">
               <div className="carousel-item active">
                 <img
-                  src="/images/sandals8.jpg"
+                  src="/images/HC0.jpg"
                   className="d-block w-70"
                   alt="Sandals"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="/images/sandals9.jpg"
+                  src="/images/HC1.jpg"
                   className="d-block w-70"
                   alt="Sandals"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="/images/sandals10.jpg"
+                  src="/images/HC2.jpg"
                   className="d-block w-70"
                   alt="Sandals"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="/images/sandals11.jpg"
+                  src="/images/HC3.jpg"
                   className="d-block w-70"
                   alt="Sandals"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="/images/sandals5.jpg"
+                  src="/images/HC4.jpg"
                   className="d-block w-70"
                   alt="Sandals"
                 />
