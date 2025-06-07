@@ -66,18 +66,22 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
- .navbar-brand{
+.navbar-brand {
   font-size: 2rem;
   font-weight: bold;
- }
-.newNav{
-  font-size: 1.5rem;
-  background-color: aquamarine;
+  color: #21409a;
 }
-.header-message{
- padding: 5%;
+.navbar-brand:hover {
+  color: white;
+}
+.newNav {
+  font-size: 1.5rem;
+  background-color: #ef9c23;
+}
+.header-message {
+  padding: 5%;
   text-align: center;
 }
-.limited-offers{
+.limited-offers {
   padding: 5%;
 }
