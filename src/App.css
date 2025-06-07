@@ -1,28 +1,28 @@
 /* Header Section Start */
-.header-message{
+.header-message {
   text-align: center;
 }
-.offers{
+.offers {
   text-align: center;
   padding: 15px;
 }
-.offers h1{
+.offers h1 {
   font-size: 3.5rem;
   font-weight: 500;
 }
-.offers p{
+.offers p {
   font-size: 2rem;
   font-weight: 300;
 }
-.header-btn{
+.header-btn {
   margin: 10px;
 }
-.header-image img{
+.header-image img {
   width: 300px;
 }
-.header-carousal img{
+.header-carousal img {
   width: 400px;
-  margin: 40px  auto 0;
+  margin: 40px auto 0;
   border-radius: 10px;
 }
 /* Header Section End */
@@ -31,25 +31,27 @@
   text-align: center;
   padding-bottom: 3%;
 }
-.Categories{
+.Categories {
   padding-bottom: 25px;
   margin: 0 auto;
   text-align: center;
 }
-.Categories h2{
+.Categories h2 {
   font-size: 3rem;
   padding: 10px;
 }
-.cate-back1{
-  background-image: url("images/sandals2.jpg");
+.cate-back1 {
+  background-image: url('images/sandals2.jpg');
 }
-.cate-back2{
-  background-image: url("images/sandals7.jpg");
+.cate-back2 {
+  background-image: url('images/sandals7.jpg');
 }
-.cate-back3{
-  background-image: url("images/sandals6.jpg");
+.cate-back3 {
+  background-image: url('images/sandals6.jpg');
 }
-.cate-back1, .cate-back2, .cate-back3 {
+.cate-back1,
+.cate-back2,
+.cate-back3 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -64,48 +66,47 @@
 
 /*Feature Products Seection Start */
 
-.cross-price{
+.cross-price {
   text-decoration: line-through;
   margin-right: 10px;
   color: orange;
 }
-.feature-products h2{
+.feature-products h2 {
   padding-bottom: 15px;
 }
-.stars{
+.stars {
   color: orange;
 }
 /* Feature Seection End */
 
 /* Special Seection Start */
 
-
-.special-offers{
+.special-offers {
   padding: 5%;
-  background-color: aquamarine;
+  background-color: #ef9c23;
   margin-top: 25px;
 }
-.special-offers h3{
+.special-offers h3 {
   padding-bottom: 15px;
   font-weight: bold;
 }
-.special-message{
+.special-message {
   padding: 20px;
 }
-.special-sandals{
+.special-sandals {
   border-radius: 15px;
 }
 /* Special Seection End */
 
 /* Values Section  Start */
-.values{
+.values {
   padding: 3%;
 }
-.values h2{
+.values h2 {
   font-weight: bold;
   padding: 20px;
 }
-.values-message{
+.values-message {
   background-color: aquamarine;
   width: 250px;
   margin: 10px auto;
@@ -114,16 +115,16 @@
 }
 /* Values Section  End */
 
-.footer{
+.footer {
   text-align: center;
 }
-.footer h2{
+.footer h2 {
   padding: 10px;
 }
-.footer-content{
+.footer-content {
   padding: 15px;
 }
-.logo p{
+.logo p {
   font-size: 20px;
   width: 250px;
 }
