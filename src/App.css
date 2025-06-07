@@ -19,6 +19,8 @@
 }
 .header-image img {
   width: 300px;
+  border-radius: 15px;
+  box-shadow: 3px 5px 5px #21409a;
 }
 .header-carousal img {
   width: 400px;
