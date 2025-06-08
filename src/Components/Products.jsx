@@ -185,21 +185,21 @@ export default function Products() {
             <div className="carousel-inner">
               <div className="carousel-item active ">
                 <img
-                  src="/images/sandals.jpg"
+                  src="/images/HC13.jpg"
                   className="d-block w-50 special-sandals"
                   alt="sandals"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="/images/sandals.jpg"
+                  src="/images/HC10.jpg"
                   className="d-block w-50 special-sandals"
                   alt="sandals"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="/images/sandals.jpg"
+                  src="/images/HC12.jpg"
                   className="d-block w-50 special-sandals"
                   alt="sandals"
                 />
