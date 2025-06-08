@@ -163,15 +163,14 @@ export default function Products() {
 
       {/* Special offers section end */}
       <div className="row special-offers">
-        <h3>Limited Offers</h3>
+        <h2>Limited Offers</h2>
         <div className="col-lg-6 special-message">
           <h1>Special Edition</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum
-            aspernatur accusamus labore similique sequi modi. Pariatur
-            cupiditate exercitationem aperiam minima.
+            We have a special offers for all our customers buying any of the
+            sandals up to Ghc1000.
           </p>
-          <h2>Buy This Sandals At 10% Discount, Use Code OFF10</h2>
+          <h4>Buy This Sandals At 10% Discount, Use Code OFF10</h4>
           <button type="button" className="btn btn-lg btn-outline-primary">
             Shop Now
           </button>
