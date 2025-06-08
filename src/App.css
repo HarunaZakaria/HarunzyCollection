@@ -135,3 +135,18 @@
   font-size: 18px;
   opacity: 89%;
 }
+/* Testimonials Section */
+
+.testimonials {
+  padding: 3%;
+  text-align: center;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+.testi-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+  border: #ef9c23 dotted 5px;
+}
