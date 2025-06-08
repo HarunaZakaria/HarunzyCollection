@@ -115,17 +115,23 @@
   text-align: center;
   background-color: #ef9c23;
 }
-.footer h2 {
+.footer h2,
+.footer h5 {
   padding: 10px;
+  opacity: 89%;
+  color: white;
 }
 .footer-content {
   padding: 15px;
+  opacity: 89%;
 }
 .logo p {
   font-size: 20px;
   width: 250px;
+  opacity: 89%;
 }
 .copy {
   width: 100%;
   font-size: 18px;
+  opacity: 89%;
 }
