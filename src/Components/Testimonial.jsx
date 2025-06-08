@@ -46,8 +46,8 @@ export default function Testimonial() {
               <div className="carousel-inner">
                 <div className="carousel-item active ">
                   <p class="testimonial-text">
-                    My dog used to be so lonely, but with TinDog's help, they've
-                    found the love of their life. I think.
+                    My sandals was exactly the way I wanted it, thank you so
+                    much for that!.
                   </p>
                   <img
                     class="testi-image"
@@ -58,8 +58,8 @@ export default function Testimonial() {
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
-                    My dog used to be so lonely, but with TinDog's help, they've
-                    found the love of their life. I think.
+                    My sandals was exactly the way I wanted it, thank you so
+                    much for that!.
                   </p>
                   <img
                     class="testi-image"
@@ -70,8 +70,8 @@ export default function Testimonial() {
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
-                    My dog used to be so lonely, but with TinDog's help, they've
-                    found the love of their life. I think.
+                    My sandals was exactly the way I wanted it, thank you so
+                    much for that!
                   </p>
                   <img
                     class="testi-image"
@@ -82,8 +82,8 @@ export default function Testimonial() {
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
-                    My dog used to be so lonely, but with TinDog's help, they've
-                    found the love of their life. I think.
+                    My sandals was exactly the way I wanted it, thank you so
+                    much for that!.
                   </p>
                   <img
                     class="testi-image"
@@ -94,8 +94,8 @@ export default function Testimonial() {
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
-                    My dog used to be so lonely, but with TinDog's help, they've
-                    found the love of their life. I think.
+                    My sandals was exactly the way I wanted it, thank you so
+                    much for that!.
                   </p>
                   <img
                     class="testi-image"
