@@ -171,7 +171,7 @@ export default function Products() {
             aspernatur accusamus labore similique sequi modi. Pariatur
             cupiditate exercitationem aperiam minima.
           </p>
-          <h2>Buy This Sandals At 20% Discount, Use Code OFF20</h2>
+          <h2>Buy This Sandals At 10% Discount, Use Code OFF10</h2>
           <button type="button" className="btn btn-lg btn-outline-primary">
             Shop Now
           </button>
