@@ -77,8 +77,9 @@
   padding: 5%;
   margin-top: 25px;
   background-color: #ef9c23;
+  color: white;
 }
-.special-offers h3 {
+.special-offers h2 {
   padding-bottom: 15px;
   font-weight: bold;
 }
