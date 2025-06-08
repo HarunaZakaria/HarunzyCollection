@@ -33,9 +33,11 @@
   padding-bottom: 3%;
   margin: 0 auto;
   text-align: center;
-  background-color: #ef9c23;
 }
-
+.cart-body {
+  background-color: #ef9c23;
+  color: #fff;
+}
 .Categories h2 {
   font-size: 3rem;
   padding: 10px;
