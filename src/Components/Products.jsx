@@ -6,7 +6,7 @@ export default function Products() {
         <h2>Categories</h2>
 
         <div className="col-lg-4">
-          <div className="card  w-auto p-3">
+          <div className="card  w-auto p-3 cart-body">
             <img src="/images/HC0.jpg" alt="picture" />
             <div className="card-body">
               <h3 className="card-title">Men Sandals</h3>
@@ -17,7 +17,7 @@ export default function Products() {
           </div>
         </div>
         <div className="col-lg-4">
-          <div className="card  w-auto p-3">
+          <div className="card  w-auto p-3 cart-body">
             <img src="/images/HC15.jpg" alt="picture" />
             <div className="card-body">
               <h3 className="card-title">Men Crosses</h3>
@@ -29,7 +29,7 @@ export default function Products() {
           </div>
         </div>
         <div className="col-lg-4">
-          <div className="card  w-auto p-3">
+          <div className="card  w-auto p-3 cart-body">
             <img src="/images/HC12.jpg" alt="picture" />
             <div className="card-body">
               <h3 className="card-title">Women Sandals</h3>
