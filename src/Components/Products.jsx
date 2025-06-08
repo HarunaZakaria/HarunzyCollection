@@ -216,29 +216,22 @@ export default function Products() {
         <div className="col-lg-3 values-message">
           <h3>Nationwide Delivery</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero,
-            aut?
+            Your location is no longer a problem, we deliver across the nation!
           </p>
         </div>
         <div className="col-lg-3 values-message">
           <h3>Best Quality</h3>
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero,
-            aut?
-          </p>
+          <p>We give you the best quality Birkenstock sandals</p>
         </div>
         <div className="col-lg-3 values-message">
           <h3>Best Offers</h3>
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero,
-            aut?
-          </p>
+          <p>We have a reaosonable prices for all the sandals we sell</p>
         </div>
         <div className="col-lg-3 values-message">
           <h3>Easy payment</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero,
-            aut?
+            Work is already hard so why make payment harder? Our payment methods
+            are made simple just for you.
           </p>
         </div>
       </div>
