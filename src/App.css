@@ -155,4 +155,7 @@
 
 /* Media Query */
 @media (max-width: 991px) {
+  body {
+    background-color: black;
+  }
 }
