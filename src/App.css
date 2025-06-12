@@ -152,3 +152,7 @@
   margin: 20px;
   border: #ef9c23 dotted 5px;
 }
+
+/* Media Query */
+@media (max-width: 991px) {
+}
