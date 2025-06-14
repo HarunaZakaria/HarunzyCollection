@@ -111,6 +111,9 @@
   color: white;
   opacity: 89%;
 }
+.values-message:hover {
+  background-color: #2f57ce;
+}
 /* Values Section  End */
 
 .footer {
@@ -167,5 +170,8 @@
   }
   .special-sandals {
     margin: 0 auto;
+  }
+  .values-message {
+    width: 90%;
   }
 }
