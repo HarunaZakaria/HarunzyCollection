@@ -1,5 +1,6 @@
 body {
   background-color: #fff;
+  font-family: 'Poppins', sans-serif;
 }
 .navbar-brand {
   font-family: 'Bebas Neue', sans-serif;
@@ -9,6 +10,10 @@ body {
 /* Header Section Start */
 .header-message {
   text-align: center;
+}
+.header-message h1 {
+  font-weight: 700;
+  font-style: normal;
 }
 .offers {
   text-align: center;
