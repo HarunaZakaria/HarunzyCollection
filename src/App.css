@@ -158,4 +158,8 @@
   .cart-body {
     margin-bottom: 25px;
   }
+  .card {
+    width: 90%;
+    margin: 10px auto;
+  }
 }
