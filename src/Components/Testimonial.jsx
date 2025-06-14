@@ -24,7 +24,7 @@ export default function Testimonial() {
                     src="images/HC8.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Abdulai, Savelugu</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -38,7 +38,7 @@ export default function Testimonial() {
                     src="images/HC8.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Abubakari, Shishagu</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -52,7 +52,7 @@ export default function Testimonial() {
                     src="images/HC10.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Mr. Lari, Bolga</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -66,7 +66,7 @@ export default function Testimonial() {
                     src="images/HC13.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Mr. Zak, Diare</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -80,7 +80,7 @@ export default function Testimonial() {
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Mr. Rashid, Diare</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -94,7 +94,7 @@ export default function Testimonial() {
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Mr. Mukim, Waa</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -108,7 +108,7 @@ export default function Testimonial() {
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Ibrahim, Tamale</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -122,7 +122,7 @@ export default function Testimonial() {
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Joe, Tamale</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -136,7 +136,7 @@ export default function Testimonial() {
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Dauda, Sunyani</em>
                 </div>
                 <div className="carousel-item">
                   <p class="testimonial-text">
@@ -151,7 +151,7 @@ export default function Testimonial() {
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
-                  <em>Beverly, Illinois</em>
+                  <em>Muazu, Choggu Yaoalsi</em>
                 </div>
               </div>
             </div>
