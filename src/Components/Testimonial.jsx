@@ -62,7 +62,7 @@ export default function Testimonial() {
                     Fantastic quality and a seamless shopping experience.
                   </p>
                   <img
-                    class="testi-image"
+                    className="testi-image"
                     src="images/HC13.jpg"
                     alt="lady-profile"
                   />
@@ -76,7 +76,7 @@ export default function Testimonial() {
                     my purchase!
                   </p>
                   <img
-                    class="testi-image"
+                    className="testi-image"
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
