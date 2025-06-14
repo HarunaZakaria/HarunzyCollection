@@ -7,6 +7,10 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+p {
+  font-weight: 400;
+  font-style: normal;
+}
 /* Header Section Start */
 .header-message {
   text-align: center;
