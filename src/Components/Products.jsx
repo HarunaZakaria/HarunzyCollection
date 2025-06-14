@@ -171,7 +171,10 @@ export default function Products() {
             sandals up to Ghc1000.
           </p>
           <h4>Buy This Sandals At 10% Discount, Use Code OFF10</h4>
-          <button type="button" className="btn btn-lg btn-outline-primary">
+          <button
+            type="button"
+            className="btn btn-lg btn-outline-primary button"
+          >
             Shop Now
           </button>
         </div>
