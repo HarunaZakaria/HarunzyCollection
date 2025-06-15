@@ -5,12 +5,14 @@ import Footer from './Components/Footer';
 import Products from './Components/Products';
 import './App.css';
 import Testimonial from './Components/Testimonial';
+import WhatsApp from './Components/WhatsApp';
 
 function App() {
   return (
     <>
       <Router>
         <Header />
+        <WhatsApp />
         <Products />
         <Testimonial />
         <Footer />
