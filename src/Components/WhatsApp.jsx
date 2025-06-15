@@ -1,7 +1,7 @@
 export default function WhatsApp() {
   return (
     <div>
-      <h1>WhatsApp</h1>
+      <a href="https://wa.me/+233545771497"> WhatsApp</a>
     </div>
   );
 }
