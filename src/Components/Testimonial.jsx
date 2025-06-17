@@ -20,7 +20,7 @@ export default function Testimonial() {
                     you!
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC8.jpg"
                     alt="lady-profile"
                   />
@@ -34,7 +34,7 @@ export default function Testimonial() {
                     business!
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC8.jpg"
                     alt="lady-profile"
                   />
@@ -48,7 +48,7 @@ export default function Testimonial() {
                     selection and service!
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC10.jpg"
                     alt="lady-profile"
                   />
@@ -62,7 +62,7 @@ export default function Testimonial() {
                     Fantastic quality and a seamless shopping experience.
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC13.jpg"
                     alt="lady-profile"
                   />
@@ -76,7 +76,7 @@ export default function Testimonial() {
                     my purchase!
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
@@ -90,7 +90,7 @@ export default function Testimonial() {
                     wonderful product!
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
@@ -104,7 +104,7 @@ export default function Testimonial() {
                     the overall pleasant experience.
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
@@ -118,7 +118,7 @@ export default function Testimonial() {
                     to buy from you.
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
@@ -132,7 +132,7 @@ export default function Testimonial() {
                     Delighted!
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
@@ -147,7 +147,7 @@ export default function Testimonial() {
                     recommend!
                   </p>
                   <img
-                    className="testi-image"
+                    className="testi-image img-responsive"
                     src="images/HC4.jpg"
                     alt="lady-profile"
                   />
