@@ -1,4 +1,5 @@
 import NavBar from './NavBar';
+import WhatsApp from './WhatsApp';
 export default function Header() {
   return (
     <div>
@@ -66,6 +67,7 @@ export default function Header() {
         </div>
       </div>
       {/* Header top section  end*/}
+      <WhatsApp />
     </div>
   );
 }
