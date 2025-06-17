@@ -1,3 +1,6 @@
+import Footer from './Footer';
+import Testimonial from './Testimonial';
+
 export default function Products() {
   return (
     <div className="produccts">
@@ -239,6 +242,8 @@ export default function Products() {
         </div>
       </div>
       {/* Values Section end */}
+      <Testimonial />
+      <Footer />
     </div>
   );
 }
