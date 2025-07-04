@@ -54,10 +54,6 @@ export default function Products() {
             <img src="/images/HC2.jpg" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">BirkenStock Sandals</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
               <p>
                 <span className="cross-price">Ghc190 </span> Ghc170
               </p>
@@ -82,10 +78,7 @@ export default function Products() {
             <img src="/images/HC11.jpg" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">BirkenStock Sandals</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
+
               <p>
                 <span className="cross-price">Ghc170 </span> Ghc150
               </p>
@@ -110,10 +103,7 @@ export default function Products() {
             <img src="/images/HC0.jpg" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">BirkenStock Sandals</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
+
               <p>
                 <span className="cross-price">Ghc150 </span> Ghc130
               </p>
@@ -138,10 +128,7 @@ export default function Products() {
             <img src="/images/HC1.jpg" alt="picture" />
             <div className="card-body">
               <h5 className="card-title">BirkenStock Sandals</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
+
               <p>
                 <span className="cross-price">Ghc200 </span> Ghc180
               </p>
