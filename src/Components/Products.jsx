@@ -1,4 +1,4 @@
-import Footer from './Footer';
+import data from '../data';
 import Testimonial from './Testimonial';
 
 export default function Products() {
@@ -7,7 +7,6 @@ export default function Products() {
       {/* Categories section start */}
       <div className="row  Categories">
         <h2>Categories</h2>
-
         <div className="col-lg-4">
           <div className="card  w-auto p-3 cart-body">
             <img src="/images/HC0.jpg" alt="picture" />
@@ -47,6 +46,16 @@ export default function Products() {
       {/* Categories section end */}
 
       {/* Feature products section end */}
+      <div className="products">
+        {data.products.map((product) => (
+          <div className="product" key={product.countInStock}>
+            <img src={product.image} alt={product.name} />
+            <p>{product.name}</p>
+            <p>{product.price}</p>
+          </div>
+        ))}
+      </div>
+
       <div className="row feature-sandals">
         <h2>Feature Sandals</h2>
         <div className="col-lg-3">
@@ -230,7 +239,6 @@ export default function Products() {
       </div>
       {/* Values Section end */}
       <Testimonial />
-      <Footer />
     </div>
   );
 }
